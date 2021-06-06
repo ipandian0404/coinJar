@@ -1,5 +1,0 @@
-C:\Users\C808182\source\repos\CoinJar.api\Coin.Data\obj\Debug\netcoreapp3.1\Coin.Data.csprojAssemblyReference.cache
-C:\Users\C808182\source\repos\CoinJar.api\Coin.Data\obj\Debug\netcoreapp3.1\Coin.Data.AssemblyInfoInputs.cache
-C:\Users\C808182\source\repos\CoinJar.api\Coin.Data\obj\Debug\netcoreapp3.1\Coin.Data.AssemblyInfo.cs
-C:\Users\C808182\source\repos\CoinJar.api\Coin.Data\bin\Debug\netcoreapp3.1\Coin.Data.deps.json
-C:\Users\C808182\source\repos\CoinJar.api\Coin.Data\bin\Debug\netcoreapp3.1\Coin.Data.dll
